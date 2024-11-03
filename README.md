@@ -4,6 +4,5 @@ Fiecare elev are un ID, o lista de cursuri la care este inscris si abonamentul d
 2.Aplicatia are cursurile, sediile si salile disponibile.
 3.Aplicatia lasa elevii sa vada lista de studenti inscrisi la un curs.
 4.Aplicatia lasa sa fie vazute toate cursurile.
-
 5.Fiecare student are de ales din mai multe tipuri de abonamente cu preturi si numar de sedinte diferite.
 6.Daca un curs este sters va fi stearsa si lista de elevi a cursului.
